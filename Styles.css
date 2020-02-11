@@ -1,0 +1,119 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.main-block1 {
+    width: 100%;
+    height: 514px;
+    background: #cbd4e6;
+}
+
+.banner {
+    margin: 0px 240px 0px 240px;
+    padding: 0;
+    height: 514px;
+    background: url(Images/Banner.jpg) no-repeat 15% #cbd4e6;
+    position: relative;
+}
+
+.info {
+    position: absolute;
+    top: 117px;
+    right: 15px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: larger;
+    text-align: right;
+}
+
+.input {
+    position: absolute;
+    right: 15px;
+    bottom: 45px;
+}
+
+.form1 {
+    margin-bottom: 30px;
+    text-align: right;
+    font-family: "MyriadProBold";
+    font-size: xx-large;
+    font-weight: 900;
+}
+
+.phone_number {
+    text-align: right;
+}
+
+.tel {
+    padding: 10px;
+    border: 0;
+}
+
+.send {
+    padding: 10px;
+    background: #cbd4e6;
+    border: 1px solid;
+    border-radius: 3px;
+}
+
+.main-block2 {
+    width: 100%;
+    height: 323px;
+    background: white;
+}
+
+.benefits {
+    margin: 0px 240px 0px 240px;
+    height: 323px;
+    display: flex;
+}
+
+.best-treatment {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    background: #43b1d2;
+    padding-left: 52px;
+    padding-right: 52px;
+}
+
+.p-benefits {
+    padding-top: 10px;
+    font-family: "MyriadProRegular";
+    color: white;
+}
+
+.figcaption-benefits {
+    padding-top: 10px;
+    font-family: "MyriadProBold";
+    font-size: x-large;
+    font-weight: 900;
+    color: white;
+}
+
+.emergency-help {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    background: #3fb6c6;
+    padding-left: 52px;
+    padding-right: 52px;
+}
+
+.medical-staff {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    background: #3cbbbb;
+    padding-left: 52px;
+    padding-right: 52px;
+}
+
+.qualified-doctors {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    background: #37c3a8;
+    padding-left: 52px;
+    padding-right: 52px;
+}

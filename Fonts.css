@@ -1,0 +1,15 @@
+@font-face {
+    font-family: "MyriadProBold";
+    src: url(Fonts/MyriadProBold.eot);
+    src: url(Fonts/MyriadProBold.otf);
+    src: url(Fonts/MyriadProBold.ttf);
+    src: url(Fonts/MyriadProBold.woff);
+}
+
+@font-face {
+    font-family: "MyriadProRegular";
+    src: url(Fonts/MyriadProRegular.eot);
+    src: url(Fonts/MyriadProRegular.otf);
+    src: url(Fonts/MyriadProRegular.ttf);
+    src: url(Fonts/MyriadProRegular.woff);
+}
